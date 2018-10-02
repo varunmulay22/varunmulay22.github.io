@@ -23,6 +23,9 @@ hr{
 	margin-top: 100px;
 }
 
-#mc_embed_signup form{
-	text-align: center;
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 10px 0 10px 3%;
 }
