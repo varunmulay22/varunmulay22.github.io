@@ -6,6 +6,7 @@ html{
 
 body{
 	font-family: 'Comfortaa', cursive;
+	text-align: center;
 }
 
 header.start{
@@ -20,4 +21,8 @@ hr{
 }
 .head1{
 	margin-top: 100px;
+}
+
+.but1 .btn .btn-light{
+	text-align: center;
 }
